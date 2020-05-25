@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Manoj-sReactProjects/static/css/main.6724a7d1.chunk.css",
+    "main.js": "/Manoj-sReactProjects/static/js/main.53097729.chunk.js",
+    "main.js.map": "/Manoj-sReactProjects/static/js/main.53097729.chunk.js.map",
+    "runtime-main.js": "/Manoj-sReactProjects/static/js/runtime-main.ed7a0b8b.js",
+    "runtime-main.js.map": "/Manoj-sReactProjects/static/js/runtime-main.ed7a0b8b.js.map",
+    "static/js/2.0ede4172.chunk.js": "/Manoj-sReactProjects/static/js/2.0ede4172.chunk.js",
+    "static/js/2.0ede4172.chunk.js.map": "/Manoj-sReactProjects/static/js/2.0ede4172.chunk.js.map",
+    "index.html": "/Manoj-sReactProjects/index.html",
+    "precache-manifest.0a59045800f6b70990b1ce751f3b274a.js": "/Manoj-sReactProjects/precache-manifest.0a59045800f6b70990b1ce751f3b274a.js",
+    "service-worker.js": "/Manoj-sReactProjects/service-worker.js",
+    "static/css/main.6724a7d1.chunk.css.map": "/Manoj-sReactProjects/static/css/main.6724a7d1.chunk.css.map",
+    "static/js/2.0ede4172.chunk.js.LICENSE.txt": "/Manoj-sReactProjects/static/js/2.0ede4172.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed7a0b8b.js",
+    "static/js/2.0ede4172.chunk.js",
+    "static/css/main.6724a7d1.chunk.css",
+    "static/js/main.53097729.chunk.js"
+  ]
+}

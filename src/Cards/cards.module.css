@@ -1,0 +1,19 @@
+.active{
+background-color: lightblue !important;
+margin:2% !important
+}
+.deaths{
+background-color: tomato !important;
+margin:2% !important;
+}
+.recovered{
+    background-color: lightgreen !important;
+    margin:2% !important;
+
+}
+.dontShow{
+    display:none !important;
+}
+.titleDisplayer{
+    padding-left: 34%;
+}
